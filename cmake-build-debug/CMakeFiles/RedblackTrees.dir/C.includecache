@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/adham/OneDrive/Desktop/Education/Term 6/Data Structures II/Projects/Red Black Trees/RedblackTrees/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
